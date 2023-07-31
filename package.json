@@ -1,6 +1,6 @@
 {
   "name": "@wunderwerk/edge-crypto",
-  "version": "0.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "Provides common crypto functions using only Edge-Runtime compatible APIs.",
   "type": "module",
   "module": "./dist/index.js",
