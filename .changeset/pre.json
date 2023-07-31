@@ -4,5 +4,7 @@
   "initialVersions": {
     "@wunderwerk/edge-crypto": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "old-doors-doubt"
+  ]
 }
