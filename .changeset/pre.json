@@ -4,5 +4,7 @@
   "initialVersions": {
     "@wunderwerk/edge-crypto": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "wise-planets-promise"
+  ]
 }
