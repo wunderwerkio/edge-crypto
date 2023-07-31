@@ -44,5 +44,12 @@
     "typecheck": "tsc --project ./tsconfig.json",
     "version-package": "turbo run build test typecheck && changeset version && pnpm install --lockfile-only",
     "publish-package": "turbo run build && changeset publish"
-  }
+  },
+  "files": [
+    "dist/index.d.ts",
+    "dist/index.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
 }
