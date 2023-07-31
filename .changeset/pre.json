@@ -2,7 +2,7 @@
   "mode": "pre",
   "tag": "alpha",
   "initialVersions": {
-    "@wunderwerk/edge-crypto": "1.0.0"
+    "@wunderwerk/edge-crypto": "0.0.0"
   },
   "changesets": []
 }
